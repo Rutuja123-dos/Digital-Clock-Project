@@ -7,7 +7,7 @@ A Python-based GUI application that provides a real-time display of the current 
 ## 🚀 Features
 * Real-Time Synchronization: Uses the time module to fetch and display the system time with second-level precision.
 
-* Dynamic UI Updates: Implements recursive refreshing using the .after() method to update the display every 1000ms without lag.
+* Dynamic UI Updates: Implements recursive refreshing using the .after() method to update the display every 1000ms without lag. 
 
 * Aesthetic Styling: Features a custom "Dark Mode" interface with high-contrast colors (Purple on Black) for better readability.
 
