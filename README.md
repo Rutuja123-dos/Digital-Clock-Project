@@ -3,7 +3,7 @@
 ## 🕒 Interactive Digital Clock & Calendar
 
 A Python-based GUI application that provides a real-time display of the current time and date. This project explores graphical user interface (GUI) development, event loops, and recursive function timing to create a functional desktop utility.
-
+ 
 ## 🚀 Features
 * Real-Time Synchronization: Uses the time module to fetch and display the system time with second-level precision.
 
