@@ -12,7 +12,7 @@ A Python-based GUI application that provides a real-time display of the current 
 * Aesthetic Styling: Features a custom "Dark Mode" interface with high-contrast colors (Purple on Black) for better readability.
 
 * Comprehensive Display: Shows the time (HH:MM:SS), AM/PM status, and the full date (DD/MM/YYYY) simultaneously.
-
+ 
 ## 🛠️ Tech Stack
 * Language: Python 3.13
 
