@@ -1,4 +1,4 @@
-## Digital-Clock-Project
+# Digital-Clock-Project
 
 ## 🕒 Interactive Digital Clock & Calendar
 
